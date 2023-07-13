@@ -2,6 +2,7 @@
 By showcasing my expertise in Power BI, data cleaning, data transformation, and financial insights, these projects highlights my ability to leverage technology and analytical skills to deliver impactful solutions that enhance financial management and decision-making processes.
 
 These Projects aim to:
+
 Develop a comprehensive financial information dashboard that provides users with an easy-to-use interface to view and interact with key financial indicators on multiple devices (PC, tablet, mobile).
 
 In these Projects:
